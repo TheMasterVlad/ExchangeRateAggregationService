@@ -1,0 +1,22 @@
+[
+	{
+		"currencyCode":"USD",
+		"buying":27.7,
+		"selling":27.05
+	},
+	{
+		"currencyCode":"EUR",
+		"buying":30.22,
+		"selling":29.32
+	},
+	{
+		"currencyCode":"RUB",
+		"buying":7.0,
+		"selling":6.6
+	},
+	{
+		"currencyCode":"PLN",
+		"buying":7.36,
+		"selling":7.22
+	}
+]

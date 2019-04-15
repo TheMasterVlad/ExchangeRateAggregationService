@@ -1,0 +1,27 @@
+<ratesList>
+	<exchangeRate>
+		<currencyCode>EUR</currencyCode>
+		<buying>33.20</buying>
+		<selling>34.10</selling>
+	</exchangeRate>
+	<exchangeRate>
+		<currencyCode>CHF</currencyCode>
+		<buying>22.00</buying>
+		<selling>20.0</selling>
+	</exchangeRate>
+	<exchangeRate>
+		<currencyCode>RUB</currencyCode>
+		<buying>0.36</buying>
+		<selling>0.0</selling>
+	</exchangeRate>
+	<exchangeRate>
+		<currencyCode>GBP</currencyCode>
+		<buying>31.37</buying>
+		<selling>38.43</selling>
+	</exchangeRate>
+	<exchangeRate>
+		<currencyCode>PLN</currencyCode>
+		<buying>6.96</buying>
+		<selling>6.21</selling>
+	</exchangeRate>
+</ratesList>
